@@ -2,3 +2,5 @@ Attendees
 =========
 Alex Mitchell
 Devo
+Bill Gates
+Steve Jobs
